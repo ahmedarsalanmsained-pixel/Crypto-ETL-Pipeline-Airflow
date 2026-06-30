@@ -224,16 +224,15 @@ Possible extensions of this project include:
 - Cloud deployment on AWS, Azure, or Google Cloud
 
 
-- Airflow Screenshots
+-## Airflow Screenshots
 
-  Graph View
+### DAG Graph View
 
-![Graph View](Graph.PNG)
+![DAG Graph](Graph.PNG)
 
-  Task Logs
+### Task Execution Logs
 
 ![Task Logs](Logs.PNG)
-
 ---
 
 Author
