@@ -223,6 +223,17 @@ Possible extensions of this project include:
 - Machine learning-based cryptocurrency price prediction
 - Cloud deployment on AWS, Azure, or Google Cloud
 
+
+- Airflow Screenshots
+
+  Graph View
+
+![Graph View](Graph.PNG)
+
+  Task Logs
+
+![Task Logs](Logs.PNG)
+
 ---
 
 Author
